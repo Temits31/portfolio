@@ -49,15 +49,15 @@ I enjoy diving into **SQL queries, QA testing, and automation scripts**, while e
 ---
 
 ## 📬 Contact
-- **Email:** [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+- **Email:** [lisinglising1@gmail.com](lisinglising1@gmail.com)  
+- **LinkedIn:** [www.linkedin.com/in/rojo-josh-mclyde-l-404952291](www.linkedin.com/in/rojo-josh-mclyde-l-404952291)  
+- **GitHub:** [github.com/Temits31](https://github.com/Temits31)  
 
 ---
 
 ## 🌐 Live Demo
 Check out my portfolio hosted on **GitHub Pages**:  
-👉 [https://yourusername.github.io/portfolio](https://yourusername.github.io/portfolio)
+👉 
 
 ---
 
