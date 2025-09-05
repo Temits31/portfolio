@@ -186,22 +186,22 @@
     .skills-grid {
         display: grid;
         gap: 2rem;
-      }
-      
-      .skill-group h3 {
+    }
+
+    .skill-group h3 {
         font-size: 1.1rem;
         font-weight: 700;
         margin-bottom: .5rem;
         color: var(--ink);
-      }
-      
-      .chips {
+    }
+
+    .chips {
         display: flex;
         flex-wrap: wrap;
         gap: .6rem;
-      }
-      
-      .chip {
+    }
+
+    .chip {
         background: var(--panel);
         border: 2px solid var(--ink);
         padding: .4rem .8rem;
@@ -209,10 +209,10 @@
         font-size: .9rem;
         font-weight: 500;
         white-space: nowrap;
-      }
-      
+    }
 
-   
+
+
 
     footer {
         margin-top: 2rem;
