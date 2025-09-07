@@ -128,7 +128,18 @@
         color: var(--ink);
         transition: transform .1s ease;
     }
+    .dashboard{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100px;
+        min-width: 100px;
+        height: 70%;
+        width: 100%;
+        
 
+
+    }
     .btn:hover {
         transform: translate(-2px, -2px);
     }
