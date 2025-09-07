@@ -133,11 +133,16 @@
         transform: translate(-2px, -2px);
     }
 
-    .achievements,
     .projects {
         display: grid;
         grid-template-columns: repeat(12, 1fr);
         gap: 1rem;
+    }
+    .achievements{
+        display: grid;
+        grid-template-rows: repeat(12, 1fr);
+        gap: 1rem;
+        
     }
 
     /* Row 1: single full width */
